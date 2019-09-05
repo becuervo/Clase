@@ -1,4 +1,4 @@
 # Clase
-##Descripción
+## Descripción
 
 Repositorio de ejemplo
